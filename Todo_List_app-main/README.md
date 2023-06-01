@@ -16,7 +16,7 @@ Git/GitHub work-flow
 
 you can clone the repository by using the command below and run the "npm install" command to install the necessary tools
 
- https://github.com/Officialshivam136/my-to-do-list.git
+ https://github.com/Officialshivam136/To-do-web-app/tree/main/Todo_List_app-main
 
 ### Setup
 
